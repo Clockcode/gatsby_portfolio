@@ -45,7 +45,7 @@ const IndexPage = ({ pageContext }) => {
   const renderPosts = () => {
     return (
       <React.Fragment>
-        <H4>Projects </H4>
+        {/* <H4>Projects </H4>
         {projects && projects.length > 0 ? (
           projects.map((node) => (
             <Card key={node.frontmatter.path}>
@@ -68,7 +68,7 @@ const IndexPage = ({ pageContext }) => {
             This part is still underconstruction, excuse us and check it out
             later.
           </p>
-        )}
+        )} */}
         <H4>Recent Blog Posts </H4>
         {blogposts && blogposts.length > 0 ? (
           blogposts.map((node) => (

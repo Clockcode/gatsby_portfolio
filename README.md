@@ -1,4 +1,3 @@
-# Ozan Muldur
 
 ## Web Developer Personal Site
 

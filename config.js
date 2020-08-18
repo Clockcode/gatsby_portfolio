@@ -17,5 +17,5 @@ module.exports = {
   pathPrefix: "/",
   siteUrl: "https://cagdasmuldur.com",
   resumeUrl:
-    "https://drive.google.com/file/d/1MzmoMiyf3go-auSD3Xtm1Jx2_E0ey68F/view",
+    "https://drive.google.com/file/d/1j3uAIc4SxKL-ntshZOgcEzc32RQhEOUF/view?usp=sharing",
 };
